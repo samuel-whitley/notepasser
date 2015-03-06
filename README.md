@@ -57,7 +57,7 @@ Mark Read
 
 Patch Domain user/test
 
-Httparty Example
+Http party Example
 
 def open(opts = {:id => 31})
       options = opts
